@@ -1,0 +1,35 @@
+{
+  "token":"5092674456:AAF1wyekgEIKOLBtniGrqfxa8bwe13DoopM",
+  "web_title": "🌐 www.ilmlar.uz",
+  "web_site": "https://ilmlar.uz",
+
+  "logo": "/assets/ilmlaruz_logo.png",
+  "desc_image": "/assets/description.jpeg",
+  
+  "about_text" : "⭕️ <b>Qo'llanma:</b> \n Ushbu bot sizga ma'lumotlar, referatlar, slaydlar, ish rejalar, testlar, darsliklar,kurs ishilar, diplom ishilar, konspektlar, she'rlar, topishmoqlar, ertaklar, maqollar, topishda yordam beradi. \n\n❗️Botdan qidirishda aniq natijani olish uchun iloji boricha kamroq so'z ishlating. \n<b>masalan : Abdulla Oripov she'rlari</b> \n\nBazi ma'lumotlarni topishda ma'lumot topilmasa bitta yoki ikkita so'z uzunligi bilan qidiring. \n<b>masalan : Yangi yil</b> \n\nMa'lumotni topishda qiynalsangiz yoki o'z fikringizni bo'glanish tugmasi orqali bizga yozib qoldiring. Ma'lumotlar ilmlar.uz saytidan olinyapti.",
+  
+  "commands" : {
+    "/start"       : "Bot bilan aloqani boshlash",
+    "/about"       : "bot haqida",
+    "/help"        : "qo'llanma"
+  },
+
+  "search" : "🔎 Qidiruv",
+  "about" : "ℹ Haqida",
+
+  "search_params":{
+    "search" : "/wp-json/wp/v2/search?search=",
+    "def_count": 5   
+  },
+
+  "forward":"oldinga ➡",
+  "back":"⬅ orqaga",
+
+  "end_of_search": "❌ Saxifalar tugadi",
+  "not_found":"🔎 Natija topilmadi",
+
+  "magnifier":"🔎",
+
+  "db_name" : "/assets/ilmlaruz.db"
+
+}

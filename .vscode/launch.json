@@ -1,0 +1,13 @@
+{
+
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "ilmlar_uz_bot.py",
+            "type": "python",
+            "request": "launch",
+            "program": "ilmlar_uz_bot.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}
